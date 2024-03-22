@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/avataar_carousel/static/css/main.15b389a9.css",
+    "main.js": "/avataar_carousel/static/js/main.29d0f7d4.js",
+    "static/media/shapes.jpg": "/avataar_carousel/static/media/shapes.196f3e69a7d389923e4a.jpg",
+    "static/media/redrose.jpeg": "/avataar_carousel/static/media/redrose.4bbab3b00ac5d8783ab4.jpeg",
+    "static/media/sunflower.jpg": "/avataar_carousel/static/media/sunflower.a422d10f2ddb697fab74.jpg",
+    "static/media/cube.jpg": "/avataar_carousel/static/media/cube.fa3687b2532bcfbc4abc.jpg",
+    "static/media/utensils.jpg": "/avataar_carousel/static/media/utensils.3fa56241ad6f6619b827.jpg",
+    "index.html": "/avataar_carousel/index.html",
+    "main.15b389a9.css.map": "/avataar_carousel/static/css/main.15b389a9.css.map",
+    "main.29d0f7d4.js.map": "/avataar_carousel/static/js/main.29d0f7d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15b389a9.css",
+    "static/js/main.29d0f7d4.js"
+  ]
+}
